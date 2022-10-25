@@ -1,27 +1,27 @@
 [
   {
     "id": "01",
-    "title":"Engineering Physiscs"
+    "name":"Engineering Physiscs"
   },
   {
     "id": "02",
-    "title":"Engineering Mathematics"
+    "name":"Engineering Mathematics"
   },
   {
     "id": "03",
-    "title":"Computer Fundamentals"
+    "name":"Computer Fundamentals"
   },
   {
     "id": "04",
-    "title":"Programming Language"
+    "name":"Programming Language"
   },
   {
     "id": "05",
-    "title":"Accounting Principles"
+    "name":"Accounting Principles"
   },
   {
     "id": "06",
-    "title":"Business Statistics"
+    "name":"Business Statistics"
   },
   {
     "id": "07",
