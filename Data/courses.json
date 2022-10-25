@@ -1,6 +1,6 @@
 [
     {
-        "id":1,
+        "id":"01",
         "title":"Engineering Physiscs",
         "price":100,
         "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -8,7 +8,7 @@
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDjXMB7XzwpYrGR3qnlhn-D6Baju8XpCG0A&usqp=CAU"
     },
     {
-        "id":2,
+        "id":"02",
         "title":"Engineering Mathematics",
         "price":200,
         "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -17,7 +17,7 @@
        
     },
     {
-        "id":3,
+        "id":"03",
         "title":"Computer Fundamentals",
         "price":300,
         "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -25,7 +25,7 @@
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOgL3KMeRPYP05rfDPx2nvgTKMHbBv5Hf-jA&usqp=CAU"
     },
     {
-        "id":4,
+        "id":"04",
         "title":"Programming Language",
         "price":400,
         "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -33,7 +33,7 @@
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/640px-The_C_Programming_Language_logo.svg.png"
     },
     {
-        "id":5,
+        "id":"05",
         "title":"Accounting Principles",
         "price":500,
         "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -41,7 +41,7 @@
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEMe0jnuxTsApW_c8xf1iCBA6jjhgjp7XVg&usqp=CAU"
     },
     {
-        "id":6,
+        "id":"06",
         "title":"Business Statistics",
         "price":65,
         "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",

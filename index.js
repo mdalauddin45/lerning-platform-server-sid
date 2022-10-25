@@ -12,6 +12,7 @@ app.get("/", (req, res) => {
   res.send("course start");
 });
 
+// categories
 app.get("/courses-categories", (req, res) => {
   res.send(coursCategories);
 });
@@ -25,17 +26,11 @@ app.get("/category/:id", (req, res) => {
     res.send(category_courses);
   }
 });
-
+// courses
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
-app.get("/courses/:id", (req, res) => {
-  const id = req.params.id;
-  const selectCourse = courses.find((e) => e.id === id);
-  res.send(selectCourse);
-});
-
 app.listen(port, () => {
-  console.log("new protal server runnig on port", port);
+  console.log("BGC Tech server runnig on port", port);
 });
