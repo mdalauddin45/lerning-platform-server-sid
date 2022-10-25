@@ -2,7 +2,8 @@
     {
         "id":"01",
         "title":"Engineering Physiscs",
-        "price":100,
+        "Lecturer":12,
+        "Hours":54,
         "description":"Computer Science Engineering (CSE) is an academic programme that integrates the field of Computer Engineering and Computer Science. Many technical institutes in India and abroad offer UG (Undergraduate) and PG (Postgraduate) level courses in Computer Science Engineering. Students can do BTech and MTech in Computer Science Engineering from these institutes.  Students pursuing these courses get to learn about the design, implementation, and management of information systems of computer hardware and software",
         "category":"computer science",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDjXMB7XzwpYrGR3qnlhn-D6Baju8XpCG0A&usqp=CAU"
@@ -10,7 +11,8 @@
     {
         "id":"02",
         "title":"Engineering Mathematics",
-        "price":200,
+        "Lecturer":20,
+        "Hours":54,
         "description":"Computer Science Engineering (CSE) is an academic programme that integrates the field of Computer Engineering and Computer Science. Many technical institutes in India and abroad offer UG (Undergraduate) and PG (Postgraduate) level courses in Computer Science Engineering. Students can do BTech and MTech in Computer Science Engineering from these institutes.  Students pursuing these courses get to learn about the design, implementation, and management of information systems of computer hardware and software",
         "category":"computer science",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolVwXdmY-20jMI4XXoHTEzIerj_RAaX_29w&usqp=CAU"
@@ -19,7 +21,8 @@
     {
         "id":"03",
         "title":"Computer Fundamentals",
-        "price":300,
+        "Lecturer":23,
+        "Hours":54,
         "description":"Computer Science Engineering (CSE) is an academic programme that integrates the field of Computer Engineering and Computer Science. Many technical institutes in India and abroad offer UG (Undergraduate) and PG (Postgraduate) level courses in Computer Science Engineering. Students can do BTech and MTech in Computer Science Engineering from these institutes.  Students pursuing these courses get to learn about the design, implementation, and management of information systems of computer hardware and software",
         "category":"computer science",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOgL3KMeRPYP05rfDPx2nvgTKMHbBv5Hf-jA&usqp=CAU"
@@ -27,7 +30,8 @@
     {
         "id":"04",
         "title":"Programming Language",
-        "price":400,
+        "Lecturer":40,
+        "Hours":54,
         "description":"Computer Science Engineering (CSE) is an academic programme that integrates the field of Computer Engineering and Computer Science. Many technical institutes in India and abroad offer UG (Undergraduate) and PG (Postgraduate) level courses in Computer Science Engineering. Students can do BTech and MTech in Computer Science Engineering from these institutes.  Students pursuing these courses get to learn about the design, implementation, and management of information systems of computer hardware and software",
         "category":"computer science",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/640px-The_C_Programming_Language_logo.svg.png"
@@ -35,7 +39,8 @@
     {
         "id":"05",
         "title":"Accounting Principles",
-        "price":500,
+        "Lecturer":21,
+        "Hours":54,
         "description":"Computer Science Engineering (CSE) is an academic programme that integrates the field of Computer Engineering nand Computer Science. Many technical institutes in India and abroad offer UG (Undergraduate) and PG (Postgraduate) level courses in Computer Science Engineering. Students can do BTech and MTech in Computer Science Engineering from these institutes.  Students pursuing these courses get to learn about the design, implementation, and management of information systems of computer hardware and software",
         "category":"computer science",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEMe0jnuxTsApW_c8xf1iCBA6jjhgjp7XVg&usqp=CAU"
@@ -43,7 +48,8 @@
     {
         "id":"06",
         "title":"Business Statistics",
-        "price":65,
+        "Lecturer":10,
+        "Hours":54,
         "description":"Computer Science Engineering (CSE) is an academic programme that integrates the field of Computer Engineering and Computer Science. Many technical institutes in India and abroad offer UG (Undergraduate) and PG (Postgraduate) level courses in Computer Science Engineering. Students can do BTech and MTech in Computer Science Engineering from these institutes.  Students pursuing these courses get to learn about the design, implementation, and management of information systems of computer hardware and software",
         "category":"computer science",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwJfnGFoXsm4kl_tjUULdnAa5oSxiLZG0VQ&usqp=CAU"
